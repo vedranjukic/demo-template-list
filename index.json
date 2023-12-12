@@ -5,5 +5,12 @@
         "gitUrl": "https://github.com/go-training/helloworld",
         "imageUrl": "https://w7.pngwing.com/pngs/266/560/png-transparent-python-computer-icons-programmer-javascript-programming-language-python-logo-angle-text-logo.png",
         "rawReadmeUrl": "https://raw.githubusercontent.com/go-training/helloworld/master/README.md"
+    },
+    {
+        "name": "Second template",
+        "description": "Something else",
+        "gitUrl": "https://github.com/johnpapa/typescript-hello-world",
+        "imageUrl": "https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png",
+        "rawReadmeUrl": "https://raw.githubusercontent.com/johnpapa/typescript-hello-world/master/README.md"
     }
 ]
